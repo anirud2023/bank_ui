@@ -22,7 +22,7 @@ class ListTiles extends StatelessWidget {
     double iconSize = screenWidth * 0.15;
     double fontSize = screenWidth * 0.04;
     double spacing = screenWidth * 0.32;
-    double edgespa = screenWidth * 0.03;
+    double amountfont = screenWidth*0.045;
 
     return Padding(
       padding: EdgeInsets.symmetric(horizontal: screenWidth * 0.04, vertical: 10.0),
@@ -68,7 +68,7 @@ class ListTiles extends StatelessWidget {
               SizedBox(width: spacing),
               Text(
                 "-\$$amount",
-                style: TextStyle(fontSize: fontSize, color: Colors.redAccent),
+                style: TextStyle(fontSize: amountfont, color: Colors.redAccent),
               ),
             ],
           ),

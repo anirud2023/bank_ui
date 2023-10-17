@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "959267162165",
+    "project_id": "signin-3bf7d",
+    "storage_bucket": "signin-3bf7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959267162165:android:8559896a03cdd5334e897c",
+        "android_client_info": {
+          "package_name": "com.example.bank_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV30_rwrS8sNdSCaQzebgiRb0IbsGyxjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
