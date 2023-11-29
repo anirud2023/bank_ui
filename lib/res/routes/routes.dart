@@ -1,6 +1,6 @@
 
 import 'package:bank_ui/View/creat_account.dart';
-import 'package:bank_ui/View/log_in.dart';
+import 'package:bank_ui/View/sign_in.dart';
 import 'package:bank_ui/View/sign_in_page.dart';
 import 'package:bank_ui/res/routes/routes_name.dart';
 import 'package:get/get_navigation/src/routes/get_route.dart';
